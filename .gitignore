@@ -1,0 +1,7 @@
+*.o
+*.exp
+*.lib
+*.mxe64
+*.obj
+*.pdb
+/**/.mxo
