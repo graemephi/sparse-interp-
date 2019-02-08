@@ -1,5 +1,11 @@
 # sparse-interp~
 
+## Listen
+
+I used this to make [these](https://soundcloud.com/gp7/sets/wrote-a-lot-of-code).
+
+## Build
+
 Running requires Ableton 10 (lower might work but not tested) with Max for Live.
 
 Building requires a C compiler (Visual Studio on windows or clang on macos), Intel's ispc, and the max SDK. Place version 7.3.3 of the max SDK in ./include.
